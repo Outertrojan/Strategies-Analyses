@@ -1,2 +1,2 @@
-# Strategies-Analysis
-Repository which I'll be updating with various statistical analysis of markets/financial products with quantitative strategies
+# Strategies-Analyses
+Repository which I'll be updating with various statistical analyses of markets/financial products with quantitative strategies
